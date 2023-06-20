@@ -1,8 +1,14 @@
 # tensorflow-coursera
-tensorflow developer course of deeplearning.ai
+
 TensorFlow Developer (provided by DeepLearning.AI)
 
-6 hrs x 16 weeks
+Note
+***
+I uploaded the notebook assignments for every week.
+These notebooks are my assignment solution records for my review use.
+***
+
+Course contents:
 
 Course 1 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning 
 
